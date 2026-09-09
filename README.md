@@ -9,7 +9,7 @@ This project performs an end-to-end data analysis on the NYC Green Taxi dataset.
 
 ## 📊 Project Highlights (Visual Insights)
 
-![Pipeline](![Uploading image.png…]())
+![Pipeline](images/pipeline.png)
 ![Demand Volatility](images/demand.png)
 ![Mobility](images/mobility.png)
 ![ML Metrics](images/ml_metrics.png)
@@ -32,8 +32,8 @@ This project performs an end-to-end data analysis on the NYC Green Taxi dataset.
 - `powerbi/`: The original .pbix dashboard file.
 
 ## 📫 Connect with me
-- [LinkedIn Profile](لینک_لینکدین_شما)
-- [Portfolio/Email](ایمیل_شما)
+- [LinkedIn Profile](www.linkedin.com/in/alireza-mahdavi-mehr)
+- [Portfolio/Email](amahdavi674@gmail.com)
 
 ---
 *Developed by Alireza Mahdavi Mehr*
