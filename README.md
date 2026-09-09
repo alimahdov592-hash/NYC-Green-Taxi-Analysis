@@ -8,9 +8,8 @@
 This project performs an end-to-end data analysis on the NYC Green Taxi dataset. The goal was to transform raw trip records into actionable business insights regarding revenue, demand patterns, and operational efficiency, culminating in a predictive model for trip ETAs.
 
 ## 📊 Project Highlights (Visual Insights)
-*(در این بخش، ۶ اینفوگرافیکی که با هم تولید کردیم را با تگ‌های Markdown قرار دهید)*
 
-![Pipeline](images/pipeline.png)
+![Pipeline](![Uploading image.png…]())
 ![Demand Volatility](images/demand.png)
 ![Mobility](images/mobility.png)
 ![ML Metrics](images/ml_metrics.png)
